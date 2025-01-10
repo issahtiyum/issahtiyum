@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Haris Issah👋
 
-<!--
-**issahtiyum/issahtiyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 Aspiring Full-Stack Developer and Computer Science Student.
+- 🌍 From Ghana, passionate about building impactful software solutions.
+- 🚀 Currently learning React and working on exciting web development projects.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issahtiyum&layout=compact&theme=radical)
+- **Tools**: Git, Notion, VS Code, Jasmine
+- **Other Interests**: AI, Automation, and Educational & Health Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂️ My Projects
+- **[Amazon Clone](https://github.com/issahtiyum/amazon-clone)**: A functional Amazon clone built with HTML, CSS, and JavaScript.
+- **[Random Quote Generator](https://github.com/issahtiyum/quote-generator)**: A responsive web app that generates and shares random quotes.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issahtiyum&show_icons=true&theme=radical)
+
+## ⚡ Fun fact:
+I'm a fan of Formula One
+
+## 📜 Dynamic Quotes
+![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 📬 Contact Me
+- Email: haris.issah@ashesi.edu.gh | myharis.issah@gmail.com
