@@ -6,7 +6,7 @@
 - 🚀 Currently learning React and working on exciting web development projects.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issahtiyum&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issahtiyum&layout=compact&theme=radical)
 - **Tools**: Git, Notion, VS Code, Jasmine
 - **Other Interests**: AI, Automation, and Educational & Health Technology
 
