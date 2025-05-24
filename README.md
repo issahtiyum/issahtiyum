@@ -20,8 +20,5 @@
 ## ⚡ Fun fact:
 I'm a fan of Formula 1 🏎️
 
-## 📜 Dynamic Quotes
-![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 📬 Contact Me
 - Email: haris.issah@ashesi.edu.gh | myharis.issah@gmail.com
