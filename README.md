@@ -17,8 +17,5 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issahtiyum&show_icons=true&theme=radical)
 
-## ⚡ Fun fact:
-I'm a fan of Formula 1 🏎️
-
 ## 📬 Contact Me
 - Email: haris.issah@ashesi.edu.gh | myharis.issah@gmail.com
